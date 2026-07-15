@@ -32,7 +32,7 @@ Construindo interfaces modernas, acessíveis e escaláveis.
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josianerochasantos&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/josianerochasantos/josianerochasantos/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
