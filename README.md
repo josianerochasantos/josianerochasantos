@@ -43,7 +43,7 @@ Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na cons
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Josirocha&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=josianerochasantos&theme=transparent&hide_border=true"/>
 
 </div>
 
