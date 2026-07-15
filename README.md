@@ -29,12 +29,11 @@ Construindo interfaces modernas, acessíveis e escaláveis.
 
 ---
 
-## 📈 Estatísticas
+## 📈 Atividade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/josianerochasantos/josianerochasantos/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?usernamejosianerochasantos&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ---
 
