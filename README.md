@@ -41,13 +41,10 @@ Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na cons
 
 ## 📈 Estatísticas
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josianerochasantos&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josianerochasantos&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josianerochasantos&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
 
 ---
 
