@@ -1,100 +1,70 @@
-```text
-██████████████████████████████████████
+<div align="center">
 
-         LOADING PLAYER...
+# Olá! Eu sou a Josiane Rocha 👋
 
-██████████████████████████████████████
+### Front-End Developer • React • Next.js • TypeScript
 
-✓ Nome............. Josiane Rocha
-✓ Classe........... Front-End Developer
-✓ Nível............ 32
-✓ Especialização... React • Next.js • TypeScript
-✓ Missão Atual..... Engenharia da Computação
+Construindo interfaces modernas, acessíveis e escaláveis.
 
-Press ENTER to start...
-```
-
-# 👾 Bem-vindo ao meu perfil!
-
-Olá! Eu sou a **Josiane**.
-
-Transformo ideias em interfaces modernas, intuitivas e escaláveis.
-
-Atualmente desenvolvo aplicações com foco em experiência do usuário, performance e arquitetura de micro-frontends.
+</div>
 
 ---
 
-## 🎒 Inventário
+## 👩‍💻 Sobre mim
 
-| Item | Status |
-|------|--------|
-| ⚛️ React | ⭐⭐⭐⭐⭐ |
-| ▲ Next.js | ⭐⭐⭐⭐⭐ |
-| 📘 TypeScript | ⭐⭐⭐⭐⭐ |
-| 🎨 HTML & CSS | ⭐⭐⭐⭐⭐ |
-| 🎯 JavaScript | ⭐⭐⭐⭐⭐ |
-| 🔀 Git | ⭐⭐⭐⭐⭐ |
-| 🎭 Storybook | ⭐⭐⭐⭐☆ |
-| 🎨 Figma | ⭐⭐⭐⭐☆ |
+Sou desenvolvedora Front-End com experiência no desenvolvimento de aplicações utilizando **React**, **Next.js** e **TypeScript**.
+
+Atualmente curso **Engenharia da Computação**, buscando aprofundar meus conhecimentos em desenvolvimento de software e arquitetura de aplicações.
+
+Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na construção de produtos que realmente façam diferença para os usuários.
 
 ---
 
-## 🗺️ Missões
+## 🚀 Tecnologias
 
-- ✅ Desenvolver aplicações escaláveis
-- ✅ Construir interfaces acessíveis
-- ✅ Aprender algo novo todos os dias
-- 🔄 Evoluindo meu inglês
-- 🔄 Cursando Engenharia da Computação
+<div align="center">
 
----
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,styledcomponents,nodejs,git,github,vscode,figma)](https://skillicons.dev)
 
-## 📊 Status do personagem
-
-```text
-❤️ Código Limpo      ██████████ 100%
-⚡ Curiosidade       ██████████ 100%
-🧠 Aprendizado       █████████░ 95%
-☕ Café              ██████████ ∞
-```
+</div>
 
 ---
 
-## 🏆 Conquistas
+## 📚 Atualmente
 
-🏅 Desenvolvedora Front-End
-
-🏅 Experiência com React, Next.js e TypeScript
-
-🏅 Arquitetura de Micro-frontends
-
-🏅 Desenvolvimento de Dashboards
-
-🏅 Trabalho em equipes ágeis
+- 🎓 Cursando Engenharia da Computação
+- 🌎 Estudando inglês
+- 🚀 Aprimorando conhecimentos em arquitetura Front-End
+- 💡 Sempre aprendendo algo novo
 
 ---
 
-## 🎮 Estatísticas GitHub
+## 📈 Estatísticas
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Josirocha&show_icons=true&theme=tokyonight&hide_border=true"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Josirocha&show_icons=true&theme=transparent&hide_border=true"/>
 
-## 📡 Conecte-se
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&theme=transparent&hide_border=true"/>
 
-💼 LinkedIn: SEU_LINK
-
-📧 Email: SEU_EMAIL
+</div>
 
 ---
 
-```text
-==============================
-       GAME SAVED ✔
-Obrigado por visitar meu perfil!
-==============================
-```
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Josirocha&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> _"Acredito que tecnologia é sobre resolver problemas e criar experiências que façam sentido para as pessoas."_
+
+⭐ Obrigada por visitar meu perfil!
+
+</div>
