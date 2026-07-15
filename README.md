@@ -43,9 +43,9 @@ Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na cons
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Josirocha&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josianerochasantos&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josianerochasantos&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -55,7 +55,7 @@ Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na cons
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Josirocha&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=josianerochasantos&theme=transparent&hide_border=true"/>
 
 </div>
 
