@@ -1,58 +1,100 @@
-<div align="center">
+```text
+██████████████████████████████████████
 
-# Olá! Eu sou a Josiane Rocha 👋
+         LOADING PLAYER...
 
-### Front-End Developer • React • Next.js • TypeScript
+██████████████████████████████████████
 
-Construindo interfaces modernas, acessíveis e escaláveis.
+✓ Nome............. Josiane Rocha
+✓ Classe........... Front-End Developer
+✓ Nível............ 32
+✓ Especialização... React • Next.js • TypeScript
+✓ Missão Atual..... Engenharia da Computação
 
-</div>
+Press ENTER to start...
+```
 
----
+# 👾 Bem-vindo ao meu perfil!
 
-## 👩‍💻 Sobre mim
+Olá! Eu sou a **Josiane**.
 
-Sou desenvolvedora Front-End com experiência no desenvolvimento de aplicações utilizando **React**, **Next.js** e **TypeScript**.
+Transformo ideias em interfaces modernas, intuitivas e escaláveis.
 
-Atualmente curso **Engenharia da Computação**, buscando aprofundar meus conhecimentos em desenvolvimento de software e arquitetura de aplicações.
-
-Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na construção de produtos que realmente façam diferença para os usuários.
-
----
-
-## 🚀 Tecnologias
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,styledcomponents,nodejs,git,github,vscode,figma)](https://skillicons.dev)
-
-</div>
+Atualmente desenvolvo aplicações com foco em experiência do usuário, performance e arquitetura de micro-frontends.
 
 ---
 
-## 📚 Atualmente
+## 🎒 Inventário
 
-- 🎓 Cursando Engenharia da Computação
-- 🌎 Estudando inglês
-- 🚀 Aprimorando conhecimentos em arquitetura Front-End
-- 💡 Sempre aprendendo algo novo
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josianerochasantos&theme=transparent&hide_border=true"/>
-
-</div>
+| Item | Status |
+|------|--------|
+| ⚛️ React | ⭐⭐⭐⭐⭐ |
+| ▲ Next.js | ⭐⭐⭐⭐⭐ |
+| 📘 TypeScript | ⭐⭐⭐⭐⭐ |
+| 🎨 HTML & CSS | ⭐⭐⭐⭐⭐ |
+| 🎯 JavaScript | ⭐⭐⭐⭐⭐ |
+| 🔀 Git | ⭐⭐⭐⭐⭐ |
+| 🎭 Storybook | ⭐⭐⭐⭐☆ |
+| 🎨 Figma | ⭐⭐⭐⭐☆ |
 
 ---
 
-<div align="center">
+## 🗺️ Missões
 
-> _"Acredito que tecnologia é sobre resolver problemas e criar experiências que façam sentido para as pessoas."_
+- ✅ Desenvolver aplicações escaláveis
+- ✅ Construir interfaces acessíveis
+- ✅ Aprender algo novo todos os dias
+- 🔄 Evoluindo meu inglês
+- 🔄 Cursando Engenharia da Computação
 
-⭐ Obrigada por visitar meu perfil!
+---
 
-</div>
+## 📊 Status do personagem
+
+```text
+❤️ Código Limpo      ██████████ 100%
+⚡ Curiosidade       ██████████ 100%
+🧠 Aprendizado       █████████░ 95%
+☕ Café              ██████████ ∞
+```
+
+---
+
+## 🏆 Conquistas
+
+🏅 Desenvolvedora Front-End
+
+🏅 Experiência com React, Next.js e TypeScript
+
+🏅 Arquitetura de Micro-frontends
+
+🏅 Desenvolvimento de Dashboards
+
+🏅 Trabalho em equipes ágeis
+
+---
+
+## 🎮 Estatísticas GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Josirocha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📡 Conecte-se
+
+💼 LinkedIn: SEU_LINK
+
+📧 Email: SEU_EMAIL
+
+---
+
+```text
+==============================
+       GAME SAVED ✔
+Obrigado por visitar meu perfil!
+==============================
+```
