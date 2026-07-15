@@ -29,14 +29,6 @@ Construindo interfaces modernas, acessíveis e escaláveis.
 
 ---
 
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?usernamejosianerochasantos&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Contribuições
 
 <div align="center">
