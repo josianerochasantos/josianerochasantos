@@ -10,16 +10,6 @@ Construindo interfaces modernas, acessíveis e escaláveis.
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Sou desenvolvedora Front-End com experiência no desenvolvimento de aplicações utilizando **React**, **Next.js** e **TypeScript**.
-
-Atualmente curso **Engenharia da Computação**, buscando aprofundar meus conhecimentos em desenvolvimento de software e arquitetura de aplicações.
-
-Gosto de criar interfaces intuitivas, escrever código limpo e colaborar na construção de produtos que realmente façam diferença para os usuários.
-
----
-
 ## 🚀 Tecnologias
 
 <div align="center">
